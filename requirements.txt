@@ -13,7 +13,7 @@ pytz
 scikit-learn
 scipy
 six
-sklearn
+sklearn==1.1.1
 threadpoolctl
 Werkzeug
 zipp
